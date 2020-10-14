@@ -1,0 +1,29 @@
+{
+  "name": "red-contrib-ayatokura",
+  "version": "1.0.0",
+  "description": "test 🍣 node",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "sushi": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayatokura/node-red-contrib-ayatokura.git"
+  },
+  "keywords": [
+    "node-red",
+    "ayatokura",
+    "sushi"
+  ],
+  "author": "ayatokura",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ayatokura/node-red-contrib-ayatokura/issues"
+  },
+  "homepage": "https://github.com/ayatokura/node-red-contrib-ayatokura#readme"
+}
